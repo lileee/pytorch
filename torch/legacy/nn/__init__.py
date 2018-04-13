@@ -101,6 +101,7 @@ from .SpatialClassNLLCriterion import SpatialClassNLLCriterion
 from .SpatialContrastiveNormalization import SpatialContrastiveNormalization
 from .SpatialConvolution import SpatialConvolution
 from .SpatialConvolutionLocal import SpatialConvolutionLocal
+from .SpatialConvolutionLocalBatch import SpatialConvolutionLocalBatch
 from .SpatialConvolutionMap import SpatialConvolutionMap
 from .SpatialCrossMapLRN import SpatialCrossMapLRN
 from .SpatialDilatedConvolution import SpatialDilatedConvolution

@@ -37,6 +37,7 @@ ${CMAKE_CURRENT_SOURCE_DIR}/SpatialAdaptiveMaxPooling.cu
 ${CMAKE_CURRENT_SOURCE_DIR}/SpatialAveragePooling.cu
 ${CMAKE_CURRENT_SOURCE_DIR}/SpatialClassNLLCriterion.cu
 ${CMAKE_CURRENT_SOURCE_DIR}/SpatialConvolutionLocal.cu
+${CMAKE_CURRENT_SOURCE_DIR}/SpatialConvolutionLocalBatch.cu
 ${CMAKE_CURRENT_SOURCE_DIR}/SpatialConvolutionMM.cu
 ${CMAKE_CURRENT_SOURCE_DIR}/SpatialCrossMapLRN.cu
 ${CMAKE_CURRENT_SOURCE_DIR}/SpatialDepthwiseConvolution.cu
